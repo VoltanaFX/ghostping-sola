@@ -5,5 +5,4 @@
 > 4) In command prompt type `npm install` and then `node index.js`.
 > 5) Congratulations your bot is turned on and ready to rock and roll.
 
-# YouTube video
-[Link here](https://youtu.be/qvAwLEkkuJc)
+# Solarion 
